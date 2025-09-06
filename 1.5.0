@@ -1,0 +1,17 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pandas in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (2.2.2)
+Requirement already satisfied: numpy in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (2.0.1)
+Requirement already satisfied: scikit-learn in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (1.5.1)
+Collecting xgboost
+  Downloading xgboost-3.0.4-py3-none-win_amd64.whl.metadata (2.1 kB)
+Requirement already satisfied: python-dateutil>=2.8.2 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from pandas) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from pandas) (2024.1)
+Requirement already satisfied: tzdata>=2022.7 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from pandas) (2024.1)
+Requirement already satisfied: scipy>=1.6.0 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from scikit-learn) (1.14.0)
+Requirement already satisfied: joblib>=1.2.0 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from scikit-learn) (1.4.2)
+Requirement already satisfied: threadpoolctl>=3.1.0 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from scikit-learn) (3.5.0)
+Requirement already satisfied: six>=1.5 in c:\users\angad dhawaj sisodia\appdata\roaming\python\python312\site-packages (from python-dateutil>=2.8.2->pandas) (1.16.0)
+Downloading xgboost-3.0.4-py3-none-win_amd64.whl (56.8 MB)
+   ---------------------------------------- 56.8/56.8 MB 1.1 MB/s eta 0:00:00
+Installing collected packages: xgboost
+Successfully installed xgboost-3.0.4
